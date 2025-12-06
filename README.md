@@ -1,4 +1,4 @@
-# 📌 **README.md — YT-Insight: Intelligent YouTube Comment Analytics**
+# 📌 **YT-Insight: Intelligent YouTube Comment Analytics**
 
 ## 🚀 Overview
 
